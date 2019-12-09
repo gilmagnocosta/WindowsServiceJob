@@ -1,0 +1,6 @@
+﻿Desinstalando o assembly 'C:\Users\gilmagno.costa.ext\source\repos\ControleBloqueioContasService\ControleBloqueioContasService\bin\Debug\ControleBloqueioContasService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\gilmagno.costa.ext\source\repos\ControleBloqueioContasService\ControleBloqueioContasService\bin\Debug\ControleBloqueioContasService.exe
+   logfile = C:\Users\gilmagno.costa.ext\source\repos\ControleBloqueioContasService\ControleBloqueioContasService\bin\Debug\ControleBloqueioContasService.InstallLog
+Não foi possível encontrar instaladores públicos com o atributo RunInstallerAttribute.Yes no assembly C:\Users\gilmagno.costa.ext\source\repos\ControleBloqueioContasService\ControleBloqueioContasService\bin\Debug\ControleBloqueioContasService.exe.
